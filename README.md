@@ -1,5 +1,7 @@
 # Prédiction de la demande en électricité
 # Electricity demand prediction
+
+<img src="https://user-images.githubusercontent.com/47240631/153722684-72c5a0b9-291d-4f54-b9b5-b97abf4aa007.jpg" width=1000 height=500>
  
 ##### times series | Holt-Winters's méthod | SARIMA | ACF PACF
 #### predict model
